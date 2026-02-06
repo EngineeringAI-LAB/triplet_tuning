@@ -1,5 +1,5 @@
-conda create -n t4 python==3.10 -y
-conda activate t4
+conda create -n t3 python==3.10 -y
+conda activate t3
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
 cd /mnt/afse1/zhenhong/downloads
 pip install spacy==3.8.0
